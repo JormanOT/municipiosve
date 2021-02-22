@@ -1,6 +1,6 @@
 {
   "name": "municipiosve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Paquete que ayuda a obtener los municipios de los estados de Venezuela",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,9 @@
     "Venezuela"
   ],
   "author": "JormanOT",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JormanOT/municipiosve"
+  }
 }
